@@ -4,6 +4,8 @@
 
 [![Sieve of Eratosthemes algorithm](http://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
+[source](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
 [![NPM](https://nodei.co/npm/sieve-of-eratosthenes.png)](https://nodei.co/npm/sieve-of-eratosthenes)
 
 # Install

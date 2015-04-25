@@ -5,23 +5,21 @@
     var flags = [];
     var primes = [];
     var prime = 2;
-    var i;
-    var j;
 
     var n = max;
     while(n--) {
       flags[max-n] = true;
     }
 
-    for (i = prime; i < Math.sqrt(max); i++) {
-      if (flags[i]) {
-        for (j = i + i; j < max; j += i) {
+    for (prime = 2; prime < Math.sqrt(max); prime++) {
+      if (flags[prime]) {
+        for (var j = prime + prime; j < max; j += prime) {
           flags[j] = false;
         }
       }
     }
 
-    for (i = prime; i < max; i++) {
+    for (var i = 2; i < max; i++) {
       if (flags[i]) {
         primes.push(i);
       }
