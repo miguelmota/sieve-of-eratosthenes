@@ -1,0 +1,23 @@
+{
+  "name": "sieve-of-eratosthenes",
+  "main": "sieve-of-eratosthenes.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/sieve-of-eratosthenes",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Sieve of Eratosthenes implementation.",
+  "keywords": [
+    "sieve",
+    "prime",
+    "algorithm"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
