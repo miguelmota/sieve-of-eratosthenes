@@ -1,6 +1,6 @@
 # sieve-of-eratosthenes
 
-[Sieve_of_Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) implementation.
+[Sieve of Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) algorithm implementation in JavaScript.
 
 [![Sieve of Eratosthemes algorithm](http://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 

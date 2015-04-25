@@ -1,6 +1,6 @@
 {
   "name": "sieve-of-eratosthenes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sieve of Eratosthenes implementation.",
   "main": "sieve-of-eratosthenes.js",
   "directories": {
