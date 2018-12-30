@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/miguelmota/sieve-of-eratosthenes",
   "dependencies": {
-    "tape": "^3.0.3"
+    "tape": "^4.9.2"
   }
 }
