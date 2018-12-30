@@ -1,6 +1,6 @@
 {
   "name": "sieve-of-eratosthenes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sieve of Eratosthenes implementation.",
   "main": "sieve-of-eratosthenes.js",
   "directories": {
@@ -24,7 +24,7 @@
     "url": "https://github.com/miguelmota/sieve-of-eratosthenes/issues"
   },
   "homepage": "https://github.com/miguelmota/sieve-of-eratosthenes",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.9.2"
   }
 }
